@@ -4,10 +4,9 @@ title:  "Tema 6: Alumnos con Dificultades de Aprendizaje"
 date:   2022-12-12 17:00:00 +0000
 categories:
 ---
-Nombre completo del tema: Recursos para alumnos con Dificultades en el Aprendizaje de las 
-Matemáticas. Discalculia y TDAH.
+# Tema 6. Recursos para alumnos con Dificultades en el Aprendizaje de las Matemáticas. Discalculia y TDAH.
 
-Discalculia, dislexia y TDAH.
+Hablamos de discalculia y TDAH. También mencionamos la dislexia, que afecta menos a las matemáticas.
 
 Escribimos un dictado con la mano izquierda (derecha los zurdos), sin gafas los que usemos gafas, y de pie, para hacernos a la idea de cómo son las dificultades a las que se enfrentan los alumnos con estas dificultades.
 

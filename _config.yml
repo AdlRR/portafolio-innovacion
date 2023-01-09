@@ -22,8 +22,8 @@ title: Portafolios de Alberto de la Riva Ruiz
 email: albertodelarivaruiz@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Portafolio de Innovación
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://adlrr.github.io/portafolio-innovacion" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/portafolio-innovacion" # the subpath of your site, e.g. /blog
+url: "https://adlrr.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: /:year/:month/:day
 # twitter_username: jekyllrb
 github_username:  AdlRR

@@ -25,4 +25,4 @@ Hablamos también del uso del cómic en educación. Vemos los ejemplos de Pedro 
 
 Hablamos también del uso de memes como herramienta educativa. Raquel anuncia que va a haber un concurso de memes. Esta fue mi aportación:
 
-![Meme Bachillerato](../../../assets/Alberto-de-la-Riva-Ruiz-Meme-Bachillerato.jpeg)
+![Meme Bachillerato]({% link assets/Alberto-de-la-Riva-Ruiz-Meme-Bachillerato.jpeg %})
